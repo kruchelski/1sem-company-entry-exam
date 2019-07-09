@@ -21,6 +21,6 @@ This simulation is divided in 6 exercises. Each exercise represent a step for th
 - prova1.txt, prova2.txt and VAGAS.txt: support files with the information of the exam and candidates's answered tests.  
 
 ### Final considerations  
-All of these little programs were made and executed in the [Pascal Zim compiler](pascalzimbr.blogspot.com/p/blog-page.html)  
+All of these little programs were made and executed in the [Pascal Zim compiler](http://www.pascalzimbr.blogspot.com/p/blog-page.html)  
 
 **important**: This was made for studing purposes. I create this repository for sharing the solutions with colleagues and everyone else who may find this useful. This doesn't mean it's the only or the best solution. Feel free to sugest and colaborate.
